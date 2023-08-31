@@ -19,11 +19,17 @@ Follow these steps to run the program on your ESP32 device:
 2. Connect your ESP32 device to your computer.
 3. Open a terminal in the project directory and run the following commands:
 4. Clone the repository to your local machine:
-   > git clone https://github.com/Abhishek-Tamboli9/Achyutas_Code_Base.git
-   > idf.py build
-   > idf.py -p PORT flash --> Replace PORT with the appropriate serial port of your ESP32 device.
-5. After flashing, the program will run on the device. You can monitor the output using
-   idf.py -p PORT monitor
+   ```bash
+   $git clone https://github.com/Abhishek-Tamboli9/Achyutas_Code_Base.git
+5. Build the project
+   ```bash
+   $idf.py build
+6. Flash the compiled binary to ESP32
+   ```bash
+   $idf.py -p PORT flash      (Replace PORT with the appropriate serial port of your ESP32 device)
+7. After flashing, the program will run on the device. You can monitor the output using
+    ```bash
+   $idf.py -p PORT monitor
 
 ## Explanation of Macros and Functions
 ### Macros
