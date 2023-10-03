@@ -14,6 +14,8 @@
   10. et LV_TICK_CUSTOM 1.
 
   ## Setting up the drivers for display (TFT display only):
+  ### Method 1: Copy User_Setup.h file from TFT_eSPI directory to your installed library path of TFT_eSPI. In my case:-> C:\Users\svcs\Documents\Arduino\libraries\TFT_eSPI
+  ### Method 2:
   1. Download the TFT_eSPI library using library manager of Arduino IDE.
   2. Go to Tools > manage libraries.
   3. Search for TFT_eSPI by Bodmer and install. 
