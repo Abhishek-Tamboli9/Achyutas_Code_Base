@@ -1,5 +1,5 @@
 /*
-* Author		: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
+* Author	: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
 * Date		: Mon 25 Sept 2023
 * File 		: LVGL_Button_click.ino
 * Title		: LVGL widget Button Interface with Switch
