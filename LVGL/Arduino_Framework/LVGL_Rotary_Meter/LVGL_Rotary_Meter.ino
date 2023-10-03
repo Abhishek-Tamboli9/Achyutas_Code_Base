@@ -1,5 +1,5 @@
 /*
-* Author		: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
+* Author	: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
 * Date		: Mon 03 Oct 2023
 * File 		: LVGL_Rotary_Meter.ino
 * Title		: Arduino-LVGL TFT Meter Interface with Rotary Encoder
