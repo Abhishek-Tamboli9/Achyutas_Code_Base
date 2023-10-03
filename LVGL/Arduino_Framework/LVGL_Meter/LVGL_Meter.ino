@@ -1,5 +1,5 @@
 /*
-* Author		: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
+* Author	: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
 * Date		: Thur 21 Sept 2023
 * File 		: LVGL_Meter.ino
 * Title		: Displaying a Simple Meter using LVGL
