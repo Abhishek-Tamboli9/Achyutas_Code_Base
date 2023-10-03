@@ -1,10 +1,10 @@
 /*
-* Author		: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
+* Author	: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
 * Date		: Fri 29 Sept 2023
 * File 		: LVGL_Menu_Rotary.ino
 * Title		: Browsing menu with encoder.
 * Description 	:  The code sets up LVGL for creating graphical user interfaces and integrates the encoder and button for user input.
-			   It uses a rotary encoder and a push button to browse from given menu options and select the options from menu. 
+		   It uses a rotary encoder and a push button to browse from given menu options and select the options from menu. 
 */
 
 #include <lvgl.h>
