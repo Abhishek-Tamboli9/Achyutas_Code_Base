@@ -1,5 +1,5 @@
 /*
-* Author		: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
+* Author	: Abhishek Tamboli (https://github.com/Abhishek-Tamboli9) 
 * Date		: Fri 29 Sept 2023
 * File 		: LVGL-Speedometer.ino
 * Title		: Displaying a Speedometer using LVGL
